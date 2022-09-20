@@ -1,0 +1,20 @@
+pada josheet 4 ini kita membahas tentang operator
+Dilatihan 1 kita menggunakan operator aritmatika
+	disini kita menampilkan pejumlahan,pengurangan,
+	perkalian,pembagian,menghitung hasil modulus dari
+	pembagian dan tipe penggabungan
+Dilatihan 2 kita menggunakan operator Relasi
+	Operator Relasi adalah salah satu operator, 
+	yang digunakan di dalam bahasa pemrograman Java, 
+	yang biasanya digunakan untuk membandingkan
+ 	kedua nilai pada variable yang menghasilkan nilai true ataupun false
+Dilatihan 3,4,5 kita menggunakan operator Logika dan boolean AND
+	dimana kita menampilkan 3 penggunaan Operator logika
+	1.operator AND
+	2.operator OR
+	3.operator NOT
+Dilatihan 6,7 kita menggunakan operator tenery(kondisi)
+	Operator kondisi adalah ternary operator artinya operator ini mempunyai
+ 	tiga buah operator. Operator kondisi akan mengevaluasi suatu kondisi yang
+ 	nilainya benar (true) atau salah (false) kemudian mengassign suatu nilai ke dalam variable
+	operator tenery identik menggunakan simbol ?
